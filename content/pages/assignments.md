@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of topics for the reaction papers required
+  for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

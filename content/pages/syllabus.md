@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description, an introduction
+  and overview, and information on meeting times, topics, conduct and administration
+  of the subject, and some issues to consider at your first study group meeting.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
